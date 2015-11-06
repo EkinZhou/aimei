@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://t1imgserver2.locojoy.com/ios_ipa/aimei_v1.0.242.ipa</string>
+<string>http://t1imgserver2.locojoy.com/ios_ipa/HQMan-1.0.001.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -26,13 +26,13 @@
 <key>bundle-identifier</key>
 <string>com.locojoy.T1-inhouse-local</string>
 <key>bundle-version</key>
-<string>1.0.242</string>
+<string>1.0.101</string>
 <key>kind</key>
 <string>software</string>
 <key>subtitle</key>
-<string>暧昧</string>
+<string>优质男</string>
 <key>title</key>
-<string>暧昧1.0.242版本</string>
+<string>优质男1.0.101版本</string>
 </dict>
 </dict>
 </array>
